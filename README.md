@@ -17,7 +17,7 @@
 
 ## 🌐 Live Demo
 
-👉 **[https://dev-moe-kyawaung.github.io/Moekyawaung-Portfolios/](https://dev-moe-kyawaung.github.io/Moekyawaung-Portfolios/)**
+👉 **[https://dev-moe-kyawaung.github.io/Moekyawaung-portfolios/](https://dev-moe-kyawaung.github.io/Moekyawaung-portfolios/)**
 
 ---
 
