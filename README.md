@@ -106,7 +106,7 @@ python3 -m http.server 3000
 **Moe Kyaw Aung** — Full Stack Developer & Cloud Engineer
 
 - 🐙 GitHub: [@dev-moe-kyawaung](https://github.com/dev-moe-kyawaung)
-- 🌐 Portfolio: [dev-moe-kyawaung.github.io/Moekyawaung-portfolios](https://dev-moe-kyawaung.github.io/Moekyawaung-Portfolios/)
+- 🌐 Portfolio: [https://dev-moe-kyawaung.github.io/Moekyawaung-portfolios/](https://dev-moe-kyawaung.github.io/Moekyawaung-Portfolios/)
 - 📷 Gravatar: [gravatar.com/moekyawaung2026](https://gravatar.com/moekyawaung2026)
 
 **Tech Stack:**
