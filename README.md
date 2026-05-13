@@ -106,12 +106,82 @@ python3 -m http.server 3000
 **Moe Kyaw Aung** — Full Stack Developer & Cloud Engineer
 
 - 🐙 GitHub: [@dev-moe-kyawaung](https://github.com/dev-moe-kyawaung)
-- 🌐 Portfolio: [dev-moe-kyawaung.github.io/Dev-MKA-Portfolios](https://dev-moe-kyawaung.github.io/Dev-MKA-Portfolios/)
+- 🌐 Portfolio: [dev-moe-kyawaung.github.io/Dev-MKA-Portfolios](https://dev-moe-kyawaung.github.io/Moekyawaung-Portfolios/)
 - 📷 Gravatar: [gravatar.com/moekyawaung2026](https://gravatar.com/moekyawaung2026)
 
 **Tech Stack:**
 `React` `Next.js` `Flutter` `Kotlin` `Ktor` `Angular` `Gatsby` `Ruby` `TailwindCSS` `AWS`
 
+✅ Email Section Features
+📊 Stats Bar (Real-time)
+Total
+Work
+Personal
+Developer
+Social
+20
+4
+7
+5
+3
+🎨 Smart Provider Icons
+💻 programmer · techie · technologist · hackermail · linuxmail · engineer · cybergal · webname
+🎓 graduate · collector · publicist · sociologist · secretary
+🌍 asia · usa · europe
+🔧 contractor
+🎨 graphic-designer
+✉️ mail · iname
+⚡ Features
+🔍 Search — label သို့မဟုတ် email address ဖြင့် filter
+📂 Category tabs — Work / Personal / Developer / Social / Backup
+📋 Copy per email — one click
+📋 Copy All — email 20 ခုလုံး တစ်ချက်နှိပ်ပြီး copy
+✉️ Mail button — mail client တိုက်ရိုက်ဖွင့်
+✚ Add new emails anytime
+Email address ကို moekyawaung + @ + domain ဆိုပြီး syntax highlight ပြသပါသည်။
+🐙 GitHub Accounts — 35 accounts
+moekyawaung-china · moekyawaung-developer · moekyawaungvivov30pro-design
+moekyaw-aung-mm · moekyawaung-mk · moekyawaung-microsoft · moekyawaung-cyber
+moekyawaung-bangkok · moekyawaung-micro · moekyawaungmka2032-boop ...
++ 25 more
+🐙 GitHub button → profile page
+🌐 Pages button → username.github.io link
+🔍 Search by username / label
+📂 Filter by category (Main / Work / Personal / Org / Bot)
+Color dot indicator per category
+💜 Lovable/PWA Links — 31 links
+happy-cv-creator · moekyawaung · moekyawaungmybio · the-cv-palette
+moekyaw-url · moe-kyaw-aung · moekyawaungmka · cv-beacon ...
++ 23 more
+🔍 Search by name / URL / description
+📂 Filter by type (Lovable / PWA / Web App / Tool / AI)
+link count badge real-time
+Open → button per card
+Hover animation
+Features
+✚ Add new links/accounts anytime
+✕ Remove any entry
+🎬 Staggered animation on render
+
+✨ Section အသစ် 3 ခု
+💜 12 — Lovable / PWA Links Collection
+Cards grid — project name, URL, description, tag (Lovable / PWA / Web App / Tool / Game / AI)
+Add form — name + URL + description + category dropdown
+Remove button per card
+Open → button — live link click
+Sample 2 ခု pre-loaded ထားပြီ
+🐙 13 — GitHub Account Organization
+GitHub avatar auto-load — username ထည့်ရင် profile picture ကိုယ်တိုင် ဆွဲမယ်
+Category badges — Main / Work / Personal / Organization / Bot
+Add / Remove accounts dynamically
+View button — GitHub profile ကိုတိုက်ရိုက်သွားမယ်
+moekyawaung-cloud + dev-moe-kyawaung pre-loaded
+✉️ 14 — Email Collections
+Copy to clipboard — one click copy
+Open mail client — mailto: link
+Category filter tabs — Work / Personal / Developer / Social / Backup
+Provider icons — Gmail 📧 / Outlook 📘 / Yahoo 🟣 / GitHub 🐙
+Add / Remove emails dynamically
 ---
 
 ## 📄 License
