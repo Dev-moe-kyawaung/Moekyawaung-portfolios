@@ -42,7 +42,7 @@
 ## 📁 Project Structure
 
 ```
-Dev-MKA-Portfolios/
+Moekyawaung-portfolios/
 ├── index.html              ← Main portfolio (all 11 styles)
 ├── assets/
 │   ├── css/
@@ -64,8 +64,8 @@ Dev-MKA-Portfolios/
 
 1. Repo ကို clone လုပ်ပါ:
    ```bash
-   git clone https://github.com/dev-moe-kyawaung/Dev-MKA-Portfolios.git
-   cd Dev-MKA-Portfolios
+   git clone https://github.com/dev-moe-kyawaung/Moekyawaung-portfolios.git
+   cd Moekyawaung-portfolios
    ```
 
 2. Files တွေကို push လုပ်ပါ:
@@ -106,7 +106,7 @@ python3 -m http.server 3000
 **Moe Kyaw Aung** — Full Stack Developer & Cloud Engineer
 
 - 🐙 GitHub: [@dev-moe-kyawaung](https://github.com/dev-moe-kyawaung)
-- 🌐 Portfolio: [dev-moe-kyawaung.github.io/Dev-MKA-Portfolios](https://dev-moe-kyawaung.github.io/Moekyawaung-Portfolios/)
+- 🌐 Portfolio: [dev-moe-kyawaung.github.io/Moekyawaung-portfolios](https://dev-moe-kyawaung.github.io/Moekyawaung-Portfolios/)
 - 📷 Gravatar: [gravatar.com/moekyawaung2026](https://gravatar.com/moekyawaung2026)
 
 **Tech Stack:**
@@ -133,12 +133,18 @@ Social
 ✉️ mail · iname
 ⚡ Features
 🔍 Search — label သို့မဟုတ် email address ဖြင့် filter
+
 📂 Category tabs — Work / Personal / Developer / Social / Backup
 📋 Copy per email — one click
+
 📋 Copy All — email 20 ခုလုံး တစ်ချက်နှိပ်ပြီး copy
+
 ✉️ Mail button — mail client တိုက်ရိုက်ဖွင့်
+
 ✚ Add new emails anytime
+
 Email address ကို moekyawaung + @ + domain ဆိုပြီး syntax highlight ပြသပါသည်။
+
 🐙 GitHub Accounts — 35 accounts
 moekyawaung-china · moekyawaung-developer · moekyawaungvivov30pro-design
 moekyaw-aung-mm · moekyawaung-mk · moekyawaung-microsoft · moekyawaung-cyber
