@@ -1,8 +1,3 @@
-/**
- * Dev-MKA-Portfolios — main.js
- * Moe Kyaw Aung · github.com/dev-moe-kyawaung
- */
-
 /* ─── Contribution Graph ─────────────────────────── */
 function buildContribGraph() {
   const grid = document.getElementById('contrib-grid');
