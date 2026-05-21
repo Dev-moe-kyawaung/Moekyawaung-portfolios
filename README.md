@@ -169,26 +169,6 @@ Features
 ✕ Remove any entry
 🎬 Staggered animation on render
 
-✨ Section အသစ် 3 ခု
-💜 12 — Lovable / PWA Links Collection
-Cards grid — project name, URL, description, tag (Lovable / PWA / Web App / Tool / Game / AI)
-Add form — name + URL + description + category dropdown
-Remove button per card
-Open → button — live link click
-Sample 2 ခု pre-loaded ထားပြီ
-🐙 13 — GitHub Account Organization
-GitHub avatar auto-load — username ထည့်ရင် profile picture ကိုယ်တိုင် ဆွဲမယ်
-Category badges — Main / Work / Personal / Organization / Bot
-Add / Remove accounts dynamically
-View button — GitHub profile ကိုတိုက်ရိုက်သွားမယ်
-moekyawaung-cloud + dev-moe-kyawaung pre-loaded
-✉️ 14 — Email Collections
-Copy to clipboard — one click copy
-Open mail client — mailto: link
-Category filter tabs — Work / Personal / Developer / Social / Backup
-Provider icons — Gmail 📧 / Outlook 📘 / Yahoo 🟣 / GitHub 🐙
-Add / Remove emails dynamically
----
 
 ## 📄 License
 
